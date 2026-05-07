@@ -6,9 +6,8 @@
 |---|---|
 | Nome | Associação Cultural Florescer |
 | Tipo | ONG cultural |
-| Endereço | Rua das Artes, 123 - Centro |
+| Endereço | Rua das Bromélias, 3940, Chácara das Flores |
 | Responsável | Maria Helena dos Santos (presidente) |
-| Contato | contato@florescercultural.com.br |
 | Ramo | Preservação e difusão cultural |
 
 ## Problema Identificado
